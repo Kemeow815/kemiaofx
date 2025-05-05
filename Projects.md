@@ -16,4 +16,6 @@ https://github.com/JC0v0/Coze-on-Wechat
 介绍链接: 
 https://t.me/kemiaofx_me/147
 
+#微信 #coze #ai
+
 ---
