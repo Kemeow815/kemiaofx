@@ -14,6 +14,9 @@ GitHub：https://github.com/Kemeow815/kemiaofx
 
 GitHub：https://github.com/Kemeow815/kemiaofx/blob/main/List.md
 
+## 项目列表:
+ttps://github.com/Kemeow815/kemiaofx/blob/main/Projects.md
+
 ## TG频道及群组：
 
 Telegram频道：https://t.me/kemiaofx_me
