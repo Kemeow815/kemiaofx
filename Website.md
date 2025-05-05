@@ -6,14 +6,28 @@
 
 ---
 
+#### C：
+
+CloudPaste：
+
+介绍：基于 Cloudflare 的在线剪贴板和文件分享服务
+
+网站地址：https://copy.730888.xyz/
+
+#Cloudflare
+
+---
+
 #### M：
 
 米兔音乐：
 
-网站介绍：一个在线音乐试听和免费下载的网站，支持多种格式如 MP3、FLAC 和 WAV。
+介绍：一个在线音乐试听和免费下载的网站，支持多种格式如 MP3、FLAC 和 WAV。
 
 网站地址：https://www.qqmp3.vip/
 
 #音乐
 
 ---
+
+
