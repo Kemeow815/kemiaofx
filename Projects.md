@@ -16,7 +16,7 @@ https://github.com/JC0v0/Coze-on-Wechat
 介绍链接: 
 https://t.me/kemiaofx_me/147
 
-#微信 #coze #ai
+标签: #微信 #coze #ai
 
 ---
 
@@ -32,4 +32,4 @@ https://github.com/codexu/note-gen
 介绍链接:
 https://t.me/kemiaofx_me/151
 
-#markdown #笔记 #跨端
+标签: #markdown #笔记 #跨端
