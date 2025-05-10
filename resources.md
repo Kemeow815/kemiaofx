@@ -7,4 +7,14 @@
 
 #### Q
 
-Q
+QQ音乐简洁版：
+
+夸克链接：https://pan.quark.cn/s/74b5f9dedc34
+
+123链接：
+https://www.123pan.com/s/N1NlVv-0qBod.html
+
+Telegram链接：
+https://t.me/kemiaosw_me/391
+
+标签：#QQ音乐
