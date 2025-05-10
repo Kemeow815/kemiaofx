@@ -12,7 +12,7 @@ GitHub：https://github.com/Kemeow815/kemiaofx
 
 ## 软件列表：
 
-https://github.com/Kemeow815/kemiaofx/blob/main/resource.md
+https://github.com/Kemeow815/kemiaofx/blob/main/resources.md
 
 ## 项目列表:
 
