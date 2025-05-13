@@ -28,7 +28,7 @@ Telegram频道：https://t.me/kemiaofx_me
 
 Telegram群组：https://t.me/kemiao_me
 
-主要在电报和各种云盘发布，目前来说以**夸克**和**阿里**为主，在[频道](https://t.me/kemiaofx_me)里最全。
+主要在电报和各种云盘发布，目前来说以**夸克**和**123**为主，在[频道](https://t.me/kemiaofx_me)里最全。
 
 ## 版权声明：
 
