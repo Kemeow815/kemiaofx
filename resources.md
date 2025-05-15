@@ -50,3 +50,20 @@ Telegram链接：
 https://t.me/kemiaosw_me/391
 
 标签：#QQ音乐
+
+---
+
+#### Y
+
+音乐标签：
+
+夸克链接：
+https://pan.quark.cn/s/82d9357502a0
+
+123链接：
+https://www.123pan.com/s/N1NlVv-EjBod.html
+
+Telegram链接：
+https://t.me/kemiaosw_me/394
+
+标签：音乐修改
