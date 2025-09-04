@@ -8,46 +8,22 @@
 
 ### C:
 
----
-
-#### Coze on WeChat（微信智能助手）:
-
-项目链接:
-https://github.com/JC0v0/Coze-on-Wechat
-
-介绍链接: 
-https://t.me/kemiaofx_me/147
-
-标签: #微信 #coze #ai
+| 名称 | 介绍 | 链接 | 标签 |
+| :---: | :---: | :---: | :---: |
+| Coze on WeChat（微信智能助手） | https://t.me/kemiaofx_me/147 | https://github.com/JC0v0/Coze-on-Wechat | #微信 #coze #ai |
 
 ---
 
 ### N:
 
----
-
-#### NoteGen:
-
-项目链接: 
-https://github.com/codexu/note-gen
-
-介绍链接:
-https://t.me/kemiaofx_me/151
-
-标签: #markdown #笔记 #跨端
+| 名称 | 介绍 | 链接 | 标签 |
+| :---: | :---: | :---: | :---: |
+| NoteGen | https://t.me/kemiaofx_me/151 | https://github.com/codexu/note-gen | #markdown #笔记 #跨端 |
 
 ----
 
 ### W:
 
----
-
-#### WordPress mxz_app：
-
-项目链接:
-https://github.com/mengxiaozhi/mxz_app
-
-介绍链接：
-https://t.me/kemiaofx_me/159
-
-标签：#源码 #WordPress #手机 app
+| 名称 | 介绍 | 链接 | 标签 |
+| :---: | :---: | :---: | :---: |
+| WordPress mxz_app | https://t.me/kemiaofx_me/159 | https://github.com/mengxiaozhi/mxz_app | #源码 #WordPress #手机app |
