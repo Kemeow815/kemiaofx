@@ -5,9 +5,9 @@
 
 ---
 
-#### G
+### G
 
-Gopeed:
+#### Gopeed:
 
 介绍链接：https://t.me/kemiao_me/612
 
@@ -17,13 +17,13 @@ https://pan.quark.cn/s/b37c63977c8b
 123链接：
 https://www.123pan.com/s/N1NlVv-FyBod.html
 
-标签：夸克解析
+标签：#夸克解析
 
 ---
 
-#### J
+### J
 
-就是加速
+#### 就是加速
 
 介绍链接：https://t.me/kemiao_me/612
 
@@ -33,13 +33,13 @@ https://pan.quark.cn/s/7ad0e6da7428
 123链接：
 https://www.123pan.com/s/N1NlVv-YyBod.html
 
-标签：夸克解析
+标签：#夸克解析
 
 ---
 
-#### Q
+### Q
 
-QQ音乐简洁版：
+#### QQ音乐简洁版：
 
 夸克链接：https://pan.quark.cn/s/74b5f9dedc34
 
@@ -51,11 +51,40 @@ https://t.me/kemiaosw_me/391
 
 标签：#QQ音乐
 
+#### QQNtr
+
+介绍及下载链接:
+https://t.me/kemiaofx_me/166
+
+标签: #QQ
+
 ---
 
-#### Y
+### S
 
-音乐标签：
+#### 删除EDGE/删除EDGE和WebView
+
+介绍及下载链接:
+https://t.me/kemiaofx_me/162?single
+
+标签: #系统工具 #优化
+
+---
+
+### X
+
+#### 小说下载器:
+
+油猴脚本:
+[点击下载](https://greasyfork.org/zh-CN/scripts/406070-%E5%B0%8F%E8%AF%B4%E4%B8%8B%E8%BD%BD%E5%99%A8)
+
+标签: #油猴脚本 #小说
+
+---
+
+### Y
+
+#### 音乐标签：
 
 夸克链接：
 https://pan.quark.cn/s/82d9357502a0
@@ -66,4 +95,4 @@ https://www.123pan.com/s/N1NlVv-EjBod.html
 Telegram链接：
 https://t.me/kemiaosw_me/394
 
-标签：音乐修改
+标签：#音乐修改
