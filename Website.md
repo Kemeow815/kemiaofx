@@ -6,49 +6,35 @@
 
 ---
 
-#### C：
+### C：
 
-CloudPaste：
-
-介绍：基于 Cloudflare 的在线剪贴板和文件分享服务
-
-网站地址：https://copy.730888.xyz/
-
-标签: #Cloudflare
+| 名称 | 介绍 | 链接 | 标签 |
+| :---: | :---: | :---: | :---: |
+| CloudPaste | 基于 Cloudflare 的在线剪贴板和文件分享服务 | https://copy.730888.xyz/ | #Cloudflare |
 
 ---
 
 #### D:
 
-DROP:
-介绍链接: https://t.me/kemiaofx_me/152
-
-网站地址: https://drop.space/
-
-标签：#文件分享 #文件管理 #云存储
+| 名称 | 介绍 | 链接 | 标签 |
+| :---: | :---: | :---: | :---: |
+| DROP | https://t.me/kemiaofx_me/152 | https://drop.space/ | #文件分享 #文件管理 #云存储 |
 
 ---
 
 #### M：
 
-米兔音乐：
-
-介绍：一个在线音乐试听和免费下载的网站，支持多种格式如 MP3、FLAC 和 WAV。
-
-网站地址：https://www.qqmp3.vip/
-
-标签: #音乐
+| 名称 | 介绍 | 链接 | 标签 |
+| :---: | :---: | :---: | :---: |
+| 米兔音乐 | 一个在线音乐试听和免费下载的网站，支持多种格式如 MP3、FLAC 和 WAV。 | https://www.qqmp3.vip/ | #音乐 |
 
 ---
 
 #### T
 
-涂鹿 Toolooz：
-介绍链接:
-https://t.me/kemiaofx_me/158
+| 名称 | 介绍 | 链接 | 标签 |
+| :---: | :---: | :---: | :---: |
+| Toolooz | https://t.me/kemiaofx_me/158 | https://toolooz.com/ | #网站 #设计 |
 
-网站地址: https://toolooz.com/
-
-标签：#网站 #设计
 
 
