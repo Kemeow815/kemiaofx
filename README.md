@@ -6,9 +6,15 @@ GitHub：https://github.com/Kemeow815/kemiaofx
 
 ## 下载地址：
 
-**夸克**: https://pan.quark.cn/s/25d8e648e1b7
+Telegram频道: https://t.me/kemiaofx_me
+> [!NOTE]
+> 能来Github基本都有梯子吧。。。
 
-**阿里云**: https://www.alipan.com/s/Fvdat6AUgMo
+**夸克**: ~~https://pan.quark.cn/s/25d8e648e1b7~~
+
+**阿里云**: ~~https://www.alipan.com/s/Fvdat6AUgMo~~
+
+> 暂时不适用网盘，未来改变会添加说明，此时项目内的所有资源皆可使用(截止25/09/04)
 
 ## 软件列表：
 
@@ -28,7 +34,7 @@ Telegram频道：https://t.me/kemiaofx_me
 
 Telegram群组：https://t.me/kemiao_me
 
-主要在电报和各种云盘发布，目前来说以**夸克**和**123**为主，在[频道](https://t.me/kemiaofx_me)里最全。
+主要在电报和各种云盘发布，目前来说以~~夸克~~和~~123~~**电报**为主，在[频道](https://t.me/kemiaofx_me)里最全。
 
 ## 版权声明：
 
