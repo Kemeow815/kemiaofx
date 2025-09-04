@@ -6,18 +6,9 @@
 ---
 
 ### G
-
-#### Gopeed:
-
-介绍链接：https://t.me/kemiao_me/612
-
-夸克链接：
-https://pan.quark.cn/s/b37c63977c8b
-
-123链接：
-https://www.123pan.com/s/N1NlVv-FyBod.html
-
-标签：#夸克解析
+| 名称 | 介绍及下载链接 | 标签 |
+| :---: | :---: | :---: |
+| Gopeed | https://t.me/kemiao_me/612 | #夸克解析 |
 
 ---
 
