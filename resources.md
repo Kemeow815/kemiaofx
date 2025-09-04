@@ -8,7 +8,7 @@
 ### G
 | 名称 | 介绍及下载链接 | 标签 |
 | :---: | :---: | :---: |
-| Gopeed | https://t.me/kemiao_me/612 | #夸克解析 |
+| Gopeed | https://t.me/kemiaosw_me/392?single | #夸克解析 |
 
 ---
 
@@ -16,78 +16,36 @@
 
 | 名称 | 介绍及下载链接 | 标签 |
 | :---: | :---: | :---: |
-| 就是加速 | https://t.me/kemiao_me/612 | #夸克解析 |
-
-#### 就是加速
-
-介绍链接：https://t.me/kemiao_me/612
-
-夸克链接：
-https://pan.quark.cn/s/7ad0e6da7428
-
-123链接：
-https://www.123pan.com/s/N1NlVv-YyBod.html
-
-标签：#夸克解析
+| 就是加速 | https://t.me/kemiaosw_me/392?single | #夸克解析 |
 
 ---
 
 ### Q
 
-#### QQ音乐简洁版：
-
-夸克链接：https://pan.quark.cn/s/74b5f9dedc34
-
-123链接：
-https://www.123pan.com/s/N1NlVv-0qBod.html
-
-Telegram链接：
-https://t.me/kemiaosw_me/391
-
-标签：#QQ音乐
-
-#### QQNtr
-
-介绍及下载链接:
-https://t.me/kemiaofx_me/166
-
-标签: #QQ
+| 名称 | 介绍及下载链接 | 标签 |
+| :---: | :---: | :---: |
+| QQ音乐简洁版 | https://t.me/kemiaosw_me/391 | #QQ音乐 |
+| QQNtr | https://t.me/kemiaofx_me/166 | #QQ |
 
 ---
 
 ### S
-
-#### 删除EDGE/删除EDGE和WebView
-
-介绍及下载链接:
-https://t.me/kemiaofx_me/162?single
-
-标签: #系统工具 #优化
+| 名称 | 介绍及下载链接 | 标签 |
+| :---: | :---: | :---: |
+| 删除EDGE/删除EDGE和WebView | https://t.me/kemiaofx_me/162?single | #系统工具 #优化 |
 
 ---
 
 ### X
 
-#### 小说下载器:
-
-油猴脚本:
-[点击下载](https://greasyfork.org/zh-CN/scripts/406070-%E5%B0%8F%E8%AF%B4%E4%B8%8B%E8%BD%BD%E5%99%A8)
-
-标签: #油猴脚本 #小说
+| 名称 | 介绍及下载链接 | 标签 |
+| :---: | :---: | :---: |
+| 小说下载器 | https://greasyfork.org/zh-CN/scripts/406070-%E5%B0%8F%E8%AF%B4%E4%B8%8B%E8%BD%BD%E5%99%A8 | #油猴脚本 #小说 |
 
 ---
 
 ### Y
 
-#### 音乐标签：
-
-夸克链接：
-https://pan.quark.cn/s/82d9357502a0
-
-123链接：
-https://www.123pan.com/s/N1NlVv-EjBod.html
-
-Telegram链接：
-https://t.me/kemiaosw_me/394
-
-标签：#音乐修改
+| 名称 | 介绍及下载链接 | 标签 |
+| :---: | :---: | :---: |
+| 音乐标签 | https://t.me/kemiaosw_me/394 | #音乐修改 |
